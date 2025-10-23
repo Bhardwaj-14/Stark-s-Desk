@@ -6,7 +6,7 @@
   ==================================================================
 -->
 
-## 10/23/2025 - 23rd Oct - Figuring out the illusion  
+## 10/23/2025 - Figuring out the illusion  
 
 So this is the first journal entry. The hologram which is seen in the movies are still harder to achieve with today's technology. Many use smoke and project on it, some use a projector and a transparent acrylic sheet. Recently with the introduction of transparent screens/display many are using that. But these display's are hella expensive. So, the solution would be to make a transparent display but it should be cheap too. 
 
